@@ -1,14 +1,14 @@
 {
-    "userId": "xe12rfgtybcvdferhg8ut5tyu",
+    "user_id": "xe12rfgtybcvdferhg8ut5tyu",
     "name": "Tushar",
-    "hashedPassword": "12fsjfknvslapfd940mvnakfvuisa",
-    "bookedTickets":  [{
-        "ticketId": "hffhsafhi83u2909294u",
-        "userId": "xe12rfgtybcvdferhg8ut5tyu",
+    "hashed_password": "12fsjfknvslapfd940mvnakfvuisa",
+    "booked_tickets":  [{
+        "ticket_id": "hffhsafhi83u2909294u",
+        "user_id": "xe12rfgtybcvdferhg8ut5tyu",
         "source": "mumbai",
         "destination": "delhi",
-        "travelDate": "12/04/23:G.00.12.34T",
-        "trainNo": 2000
+        "travel_date": "12/04/23:G.00.12.34T",
+        "train_no": 2000
     }]
 
 }

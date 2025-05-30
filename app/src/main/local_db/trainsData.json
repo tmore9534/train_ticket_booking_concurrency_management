@@ -1,14 +1,12 @@
 {
-    "trainId": "fskjadkjfjkfjhjsa",
-    "trainNo": 2000, 
-    "departTime": "13.00",
-    "arrivalTime": "03.00",
+    "train_id": "fskjadkjfjkfjhjsa",
+    "train_no": 2000, 
     "seats":[   [0, 0, 0, 0, 0],
                 [0, 0, 0, 0, 0],
                 [0, 0, 0, 0, 0],
                 [0, 0, 0, 0]
             ],
-    "stationsTime":{
+    "stations_time":{
         "mumbai": "13.00",
         "gujarat": "19.00",
         "delhi": "03.00"
