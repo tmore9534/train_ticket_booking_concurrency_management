@@ -5,8 +5,6 @@ import java.util.ArrayList;
 public class Train {
     String trainId;
     int trainNo;
-    String departTime;
-    String arrivalTime;
     String source;
     String destination;
     List<List<Integer>> seats = new ArrayList<>();
